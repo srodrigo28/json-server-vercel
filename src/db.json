@@ -1,0 +1,17 @@
+{
+  "home": [
+    {"API": "Bem vindo api Teste Vercel"}
+  ],
+    "user": [
+      {
+        "id": 1,
+        "nome": "Edson",
+        "senha": "2020Admin"
+      },
+      {
+        "id": 2,
+        "nome": "Rodrigo",
+        "senha": "2020admin"
+      }
+    ]
+  }
